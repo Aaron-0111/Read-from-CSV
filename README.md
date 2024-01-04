@@ -19,6 +19,7 @@ Step 5:
 Display the result.
 
 ## PROGRAM:
+```
 Developed by: Aaron Rajesh R
 RegisterNumber: 23008897
 To write a python program for reading content from a CSV file.
@@ -30,7 +31,7 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ## OUTPUT:
 <img width="644" alt="292658958-930f2610-3e9b-4fa5-a8af-d555b2f3f40c" src="https://github.com/Aaron-0111/Read-from-CSV/assets/149347631/b6ea4ce3-d107-4883-a6fb-772b314da832">
-
+```
 ## RESULT:
 Thus python program for reading content from a CSV file is successful.
 
